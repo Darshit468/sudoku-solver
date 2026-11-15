@@ -1,8 +1,8 @@
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
+# Build output
+sudoku
+sudoku.exe
+*.o
+*.obj
 
 # Editors and OS
 .vscode/
